@@ -1,0 +1,201 @@
+Transaction_ID,Date,Region,Category,Product,Units_Sold,Unit_Price,Unit_Cost,Revenue,Cost,Profit
+TXN-1122,2026-01-01,Central,Accessories,Backpack,13,23,10,299,130,169
+TXN-1064,2026-01-02,Eastern,Electronics,Smartwatch,1,916,509,916,509,407
+TXN-1193,2026-01-02,Southern,Electronics,Smartphone,1,1147,821,1147,821,326
+TXN-1018,2026-01-02,Southern,Electronics,Laptop,2,1084,812,2168,1624,544
+TXN-1167,2026-01-03,Southern,Accessories,USB-C Hub,1,75,30,75,30,45
+TXN-1068,2026-01-04,Western,Office Supplies,Notebook,6,322,164,1932,984,948
+TXN-1123,2026-01-05,Southern,Accessories,Backpack,7,46,21,322,147,175
+TXN-1103,2026-01-05,Southern,Accessories,Backpack,10,12,4,120,40,80
+TXN-1056,2026-01-08,Southern,Electronics,Smartphone,9,920,608,8280,5472,2808
+TXN-1048,2026-01-09,Central,Electronics,Wireless Headphones,3,599,339,1797,1017,780
+TXN-1091,2026-01-09,Southern,Accessories,Phone Case,12,24,7,288,84,204
+TXN-1108,2026-01-12,Western,Accessories,Backpack,12,53,18,636,216,420
+TXN-1184,2026-01-12,Central,Office Supplies,Gel Pens,1,236,111,236,111,125
+TXN-1143,2026-01-13,Western,Accessories,Phone Case,4,55,23,220,92,128
+TXN-1073,2026-01-14,Central,Office Supplies,Notebook,8,57,25,456,200,256
+TXN-1047,2026-01-14,Central,Electronics,Smartphone,12,539,398,6468,4776,1692
+TXN-1076,2026-01-15,Southern,Electronics,Wireless Headphones,12,816,557,9792,6684,3108
+TXN-1086,2026-01-15,Eastern,Accessories,Screen Protector,7,23,9,161,63,98
+TXN-1031,2026-01-15,Southern,Electronics,Wireless Headphones,3,1174,805,3522,2415,1107
+TXN-1003,2026-01-15,Western,Office Supplies,Notebook,2,119,59,238,118,120
+TXN-1128,2026-01-15,Central,Electronics,Smartphone,3,294,214,882,642,240
+TXN-1043,2026-01-18,Southern,Office Supplies,Gel Pens,1,192,87,192,87,105
+TXN-1023,2026-01-21,Eastern,Accessories,USB-C Hub,9,75,23,675,207,468
+TXN-1006,2026-01-21,Southern,Electronics,Smartwatch,6,606,402,3636,2412,1224
+TXN-1040,2026-01-21,Eastern,Accessories,Backpack,4,21,10,84,40,44
+TXN-1026,2026-01-22,Central,Accessories,Backpack,7,54,24,378,168,210
+TXN-1081,2026-01-24,Southern,Electronics,Laptop,6,943,669,5658,4014,1644
+TXN-1126,2026-01-27,Central,Accessories,Screen Protector,13,23,11,299,143,156
+TXN-1164,2026-01-27,Central,Accessories,USB-C Hub,10,41,16,410,160,250
+TXN-1154,2026-01-28,Eastern,Electronics,Laptop,5,224,164,1120,820,300
+TXN-1105,2026-01-28,Western,Office Supplies,Gel Pens,14,234,136,3276,1904,1372
+TXN-1153,2026-01-28,Southern,Electronics,Smartphone,14,1086,622,15204,8708,6496
+TXN-1147,2026-01-28,Western,Accessories,USB-C Hub,10,18,6,180,60,120
+TXN-1141,2026-01-29,Eastern,Office Supplies,Notebook,14,297,139,4158,1946,2212
+TXN-1158,2026-01-30,Western,Electronics,Smartphone,6,434,289,2604,1734,870
+TXN-1110,2026-02-02,Eastern,Electronics,Smartwatch,1,262,171,262,171,91
+TXN-1101,2026-02-02,Southern,Office Supplies,Notebook,10,126,54,1260,540,720
+TXN-1118,2026-02-04,Western,Accessories,USB-C Hub,8,58,27,464,216,248
+TXN-1058,2026-02-04,Central,Accessories,Backpack,14,10,4,140,56,84
+TXN-1142,2026-02-05,Eastern,Accessories,USB-C Hub,14,47,16,658,224,434
+TXN-1114,2026-02-06,Southern,Office Supplies,Gel Pens,2,24,12,48,24,24
+TXN-1021,2026-02-07,Western,Electronics,Laptop,8,1103,743,8824,5944,2880
+TXN-1185,2026-02-08,Central,Electronics,Smartwatch,1,1003,708,1003,708,295
+TXN-1077,2026-02-09,Western,Office Supplies,Ergonomic Chair,12,136,60,1632,720,912
+TXN-1084,2026-02-10,Central,Office Supplies,Gel Pens,14,271,112,3794,1568,2226
+TXN-1104,2026-02-10,Southern,Electronics,Smartwatch,5,1069,611,5345,3055,2290
+TXN-1130,2026-02-11,Southern,Accessories,Phone Case,10,60,23,600,230,370
+TXN-1071,2026-02-13,Southern,Office Supplies,Gel Pens,5,344,190,1720,950,770
+TXN-1156,2026-02-13,Western,Accessories,Phone Case,10,60,20,600,200,400
+TXN-1087,2026-02-14,Eastern,Accessories,USB-C Hub,8,11,4,88,32,56
+TXN-1150,2026-02-14,Central,Accessories,Backpack,4,10,4,40,16,24
+TXN-1075,2026-02-17,Central,Accessories,Phone Case,12,25,10,300,120,180
+TXN-1111,2026-02-17,Central,Electronics,Laptop,10,803,488,8030,4880,3150
+TXN-1028,2026-02-18,Southern,Office Supplies,Notebook,10,105,47,1050,470,580
+TXN-1061,2026-02-19,Eastern,Office Supplies,Standing Desk,10,176,87,1760,870,890
+TXN-1033,2026-02-20,Eastern,Electronics,Smartwatch,9,1078,641,9702,5769,3933
+TXN-1038,2026-02-20,Eastern,Accessories,Backpack,7,58,25,406,175,231
+TXN-1173,2026-02-20,Southern,Accessories,Phone Case,7,68,27,476,189,287
+TXN-1183,2026-02-21,Southern,Accessories,Screen Protector,12,29,12,348,144,204
+TXN-1135,2026-02-21,Eastern,Electronics,Laptop,13,345,229,4485,2977,1508
+TXN-1050,2026-02-22,Southern,Accessories,Screen Protector,12,42,19,504,228,276
+TXN-1080,2026-02-22,Central,Electronics,Smartwatch,4,495,360,1980,1440,540
+TXN-1017,2026-02-22,Central,Electronics,Wireless Headphones,10,718,411,7180,4110,3070
+TXN-1066,2026-02-23,Southern,Accessories,Phone Case,10,47,19,470,190,280
+TXN-1069,2026-02-23,Southern,Electronics,Smartwatch,11,1169,712,12859,7832,5027
+TXN-1195,2026-02-23,Southern,Office Supplies,Notebook,10,182,81,1820,810,1010
+TXN-1035,2026-02-24,Southern,Electronics,Smartphone,13,964,702,12532,9126,3406
+TXN-1025,2026-02-27,Southern,Electronics,Smartphone,6,649,387,3894,2322,1572
+TXN-1176,2026-02-28,Southern,Office Supplies,Gel Pens,12,134,75,1608,900,708
+TXN-1029,2026-02-28,Eastern,Accessories,Phone Case,7,76,26,532,182,350
+TXN-1046,2026-03-01,Southern,Electronics,Smartwatch,14,610,419,8540,5866,2674
+TXN-1151,2026-03-03,Eastern,Accessories,Phone Case,1,49,20,49,20,29
+TXN-1113,2026-03-03,Western,Electronics,Wireless Headphones,1,408,228,408,228,180
+TXN-1171,2026-03-03,Southern,Office Supplies,Standing Desk,4,101,60,404,240,164
+TXN-1182,2026-03-03,Eastern,Accessories,USB-C Hub,3,11,4,33,12,21
+TXN-1133,2026-03-04,Southern,Office Supplies,Notebook,6,171,73,1026,438,588
+TXN-1095,2026-03-04,Central,Accessories,Backpack,1,27,8,27,8,19
+TXN-1036,2026-03-05,Eastern,Office Supplies,Ergonomic Chair,12,217,126,2604,1512,1092
+TXN-1088,2026-03-06,Southern,Office Supplies,Notebook,4,326,139,1304,556,748
+TXN-1148,2026-03-07,Western,Electronics,Laptop,5,928,594,4640,2970,1670
+TXN-1090,2026-03-12,Eastern,Accessories,Screen Protector,2,27,10,54,20,34
+TXN-1145,2026-03-12,Western,Electronics,Smartphone,12,977,653,11724,7836,3888
+TXN-1005,2026-03-13,Western,Electronics,Smartwatch,10,878,623,8780,6230,2550
+TXN-1107,2026-03-13,Southern,Office Supplies,Notebook,9,217,111,1953,999,954
+TXN-1041,2026-03-14,Eastern,Office Supplies,Gel Pens,13,170,79,2210,1027,1183
+TXN-1009,2026-03-16,Eastern,Electronics,Smartwatch,8,428,299,3424,2392,1032
+TXN-1159,2026-03-16,Central,Office Supplies,Standing Desk,5,170,75,850,375,475
+TXN-1097,2026-03-22,Southern,Electronics,Smartwatch,3,744,465,2232,1395,837
+TXN-1191,2026-03-22,Eastern,Accessories,Backpack,3,79,38,237,114,123
+TXN-1059,2026-03-22,Western,Electronics,Smartwatch,13,598,409,7774,5317,2457
+TXN-1078,2026-03-23,Southern,Electronics,Smartphone,5,753,466,3765,2330,1435
+TXN-1157,2026-03-25,Central,Electronics,Wireless Headphones,10,859,478,8590,4780,3810
+TXN-1052,2026-03-25,Western,Electronics,Laptop,2,212,133,424,266,158
+TXN-1146,2026-03-27,Western,Electronics,Smartwatch,10,276,160,2760,1600,1160
+TXN-1196,2026-03-28,Eastern,Electronics,Smartphone,11,970,567,10670,6237,4433
+TXN-1019,2026-03-29,Western,Office Supplies,Ergonomic Chair,10,177,102,1770,1020,750
+TXN-1092,2026-03-29,Southern,Accessories,Backpack,10,37,11,370,110,260
+TXN-1010,2026-03-29,Eastern,Electronics,Laptop,14,211,137,2954,1918,1036
+TXN-1045,2026-03-30,Eastern,Office Supplies,Notebook,14,159,72,2226,1008,1218
+TXN-1089,2026-03-30,Southern,Accessories,Phone Case,13,32,12,416,156,260
+TXN-1027,2026-03-30,Central,Office Supplies,Gel Pens,13,289,160,3757,2080,1677
+TXN-1129,2026-03-31,Southern,Accessories,USB-C Hub,12,62,29,744,348,396
+TXN-1049,2026-03-31,Southern,Office Supplies,Standing Desk,7,265,108,1855,756,1099
+TXN-1053,2026-04-02,Southern,Accessories,Phone Case,7,58,27,406,189,217
+TXN-1161,2026-04-02,Eastern,Electronics,Smartwatch,2,491,278,982,556,426
+TXN-1002,2026-04-03,Southern,Electronics,Laptop,3,1119,620,3357,1860,1497
+TXN-1074,2026-04-05,Western,Accessories,Phone Case,5,32,10,160,50,110
+TXN-1134,2026-04-06,Eastern,Electronics,Smartphone,9,1146,808,10314,7272,3042
+TXN-1179,2026-04-06,Western,Electronics,Wireless Headphones,8,296,170,2368,1360,1008
+TXN-1136,2026-04-06,Central,Office Supplies,Ergonomic Chair,14,137,75,1918,1050,868
+TXN-1115,2026-04-09,Western,Office Supplies,Gel Pens,14,27,14,378,196,182
+TXN-1012,2026-04-10,Eastern,Electronics,Smartwatch,2,545,404,1090,808,282
+TXN-1119,2026-04-11,Eastern,Office Supplies,Standing Desk,13,151,66,1963,858,1105
+TXN-1189,2026-04-11,Western,Office Supplies,Standing Desk,5,249,120,1245,600,645
+TXN-1125,2026-04-13,Southern,Electronics,Smartphone,6,238,163,1428,978,450
+TXN-1007,2026-04-13,Eastern,Accessories,Backpack,10,45,16,450,160,290
+TXN-1168,2026-04-13,Eastern,Electronics,Laptop,8,1096,636,8768,5088,3680
+TXN-1000,2026-04-13,Western,Accessories,USB-C Hub,7,11,3,77,21,56
+TXN-1013,2026-04-14,Central,Accessories,Screen Protector,6,18,6,108,36,72
+TXN-1062,2026-04-14,Western,Accessories,Phone Case,10,59,27,590,270,320
+TXN-1117,2026-04-14,Western,Accessories,Phone Case,9,33,13,297,117,180
+TXN-1067,2026-04-16,Southern,Office Supplies,Standing Desk,6,320,165,1920,990,930
+TXN-1004,2026-04-17,Southern,Office Supplies,Ergonomic Chair,9,128,67,1152,603,549
+TXN-1155,2026-04-18,Eastern,Accessories,USB-C Hub,7,43,20,301,140,161
+TXN-1034,2026-04-18,Southern,Office Supplies,Standing Desk,8,58,34,464,272,192
+TXN-1079,2026-04-21,Central,Office Supplies,Ergonomic Chair,7,340,144,2380,1008,1372
+TXN-1054,2026-04-21,Central,Office Supplies,Ergonomic Chair,6,113,48,678,288,390
+TXN-1188,2026-04-23,Central,Office Supplies,Ergonomic Chair,11,295,133,3245,1463,1782
+TXN-1192,2026-04-23,Eastern,Electronics,Laptop,1,190,114,190,114,76
+TXN-1190,2026-04-23,Central,Office Supplies,Standing Desk,12,43,18,516,216,300
+TXN-1181,2026-04-23,Western,Office Supplies,Ergonomic Chair,2,317,166,634,332,302
+TXN-1166,2026-04-26,Central,Accessories,USB-C Hub,10,10,4,100,40,60
+TXN-1011,2026-04-27,Southern,Electronics,Laptop,8,546,398,4368,3184,1184
+TXN-1177,2026-04-28,Western,Electronics,Laptop,11,618,390,6798,4290,2508
+TXN-1163,2026-05-01,Central,Electronics,Laptop,10,364,231,3640,2310,1330
+TXN-1165,2026-05-01,Southern,Electronics,Smartphone,3,435,312,1305,936,369
+TXN-1008,2026-05-02,Southern,Accessories,Screen Protector,3,33,15,99,45,54
+TXN-1102,2026-05-03,Western,Accessories,USB-C Hub,5,71,32,355,160,195
+TXN-1131,2026-05-04,Southern,Accessories,Phone Case,3,60,22,180,66,114
+TXN-1083,2026-05-04,Eastern,Accessories,Phone Case,4,57,17,228,68,160
+TXN-1199,2026-05-06,Southern,Office Supplies,Notebook,13,207,86,2691,1118,1573
+TXN-1160,2026-05-08,Southern,Electronics,Wireless Headphones,4,998,740,3992,2960,1032
+TXN-1197,2026-05-09,Central,Electronics,Smartphone,12,1071,675,12852,8100,4752
+TXN-1093,2026-05-09,Western,Electronics,Smartphone,14,235,144,3290,2016,1274
+TXN-1162,2026-05-09,Southern,Electronics,Smartwatch,4,710,433,2840,1732,1108
+TXN-1194,2026-05-10,Central,Accessories,Backpack,8,36,17,288,136,152
+TXN-1022,2026-05-10,Eastern,Electronics,Laptop,1,319,200,319,200,119
+TXN-1186,2026-05-10,Southern,Electronics,Laptop,13,781,583,10153,7579,2574
+TXN-1051,2026-05-10,Eastern,Office Supplies,Gel Pens,2,253,108,506,216,290
+TXN-1037,2026-05-11,Southern,Accessories,Phone Case,10,29,9,290,90,200
+TXN-1015,2026-05-11,Western,Accessories,Screen Protector,2,78,27,156,54,102
+TXN-1121,2026-05-11,Central,Office Supplies,Gel Pens,1,334,185,334,185,149
+TXN-1187,2026-05-11,Central,Accessories,Screen Protector,3,23,10,69,30,39
+TXN-1137,2026-05-12,Southern,Office Supplies,Standing Desk,12,173,82,2076,984,1092
+TXN-1063,2026-05-12,Western,Office Supplies,Gel Pens,6,236,131,1416,786,630
+TXN-1044,2026-05-12,Southern,Electronics,Smartphone,8,889,664,7112,5312,1800
+TXN-1065,2026-05-14,Eastern,Accessories,Backpack,4,23,10,92,40,52
+TXN-1152,2026-05-14,Western,Accessories,Backpack,14,62,22,868,308,560
+TXN-1039,2026-05-15,Western,Accessories,Backpack,9,63,26,567,234,333
+TXN-1106,2026-05-15,Eastern,Accessories,USB-C Hub,7,60,27,420,189,231
+TXN-1098,2026-05-16,Eastern,Electronics,Laptop,12,841,571,10092,6852,3240
+TXN-1094,2026-05-16,Southern,Electronics,Smartphone,3,174,119,522,357,165
+TXN-1127,2026-05-17,Western,Electronics,Laptop,7,1196,762,8372,5334,3038
+TXN-1170,2026-05-17,Eastern,Accessories,Screen Protector,13,19,6,247,78,169
+TXN-1096,2026-05-19,Southern,Accessories,USB-C Hub,8,43,17,344,136,208
+TXN-1124,2026-05-22,Central,Accessories,USB-C Hub,5,35,16,175,80,95
+TXN-1139,2026-05-23,Southern,Electronics,Smartwatch,1,196,123,196,123,73
+TXN-1070,2026-05-26,Central,Office Supplies,Notebook,12,95,56,1140,672,468
+TXN-1198,2026-05-27,Central,Office Supplies,Standing Desk,13,60,24,780,312,468
+TXN-1016,2026-05-30,Southern,Electronics,Smartwatch,11,1040,616,11440,6776,4664
+TXN-1138,2026-05-31,Central,Electronics,Smartwatch,5,1097,690,5485,3450,2035
+TXN-1112,2026-05-31,Central,Electronics,Laptop,10,288,212,2880,2120,760
+TXN-1014,2026-06-01,Eastern,Office Supplies,Notebook,7,66,33,462,231,231
+TXN-1175,2026-06-01,Southern,Accessories,Backpack,1,17,5,17,5,12
+TXN-1082,2026-06-03,Eastern,Electronics,Laptop,13,388,253,5044,3289,1755
+TXN-1169,2026-06-04,Southern,Electronics,Smartwatch,5,1074,606,5370,3030,2340
+TXN-1085,2026-06-06,Central,Accessories,Backpack,3,61,20,183,60,123
+TXN-1020,2026-06-07,Western,Accessories,Phone Case,1,27,13,27,13,14
+TXN-1144,2026-06-09,Eastern,Office Supplies,Ergonomic Chair,5,118,59,590,295,295
+TXN-1178,2026-06-09,Central,Accessories,Screen Protector,4,16,6,64,24,40
+TXN-1024,2026-06-10,Southern,Electronics,Laptop,11,488,325,5368,3575,1793
+TXN-1072,2026-06-11,Southern,Electronics,Laptop,1,202,125,202,125,77
+TXN-1109,2026-06-11,Central,Office Supplies,Standing Desk,5,338,163,1690,815,875
+TXN-1100,2026-06-12,Southern,Electronics,Smartphone,7,811,482,5677,3374,2303
+TXN-1099,2026-06-12,Central,Office Supplies,Notebook,10,329,196,3290,1960,1330
+TXN-1060,2026-06-13,Eastern,Office Supplies,Gel Pens,6,109,46,654,276,378
+TXN-1172,2026-06-14,Central,Office Supplies,Notebook,8,22,8,176,64,112
+TXN-1042,2026-06-16,Eastern,Office Supplies,Gel Pens,4,178,87,712,348,364
+TXN-1030,2026-06-19,Western,Office Supplies,Gel Pens,10,140,57,1400,570,830
+TXN-1149,2026-06-19,Western,Office Supplies,Ergonomic Chair,7,124,54,868,378,490
+TXN-1140,2026-06-20,Southern,Electronics,Laptop,14,244,163,3416,2282,1134
+TXN-1116,2026-06-21,Western,Electronics,Wireless Headphones,6,478,335,2868,2010,858
+TXN-1055,2026-06-21,Eastern,Electronics,Smartwatch,3,972,702,2916,2106,810
+TXN-1174,2026-06-21,Central,Office Supplies,Ergonomic Chair,2,253,130,506,260,246
+TXN-1032,2026-06-24,Central,Office Supplies,Ergonomic Chair,2,205,101,410,202,208
+TXN-1120,2026-06-24,Southern,Accessories,Phone Case,5,10,4,50,20,30
+TXN-1057,2026-06-24,Central,Electronics,Smartphone,10,826,579,8260,5790,2470
+TXN-1132,2026-06-28,Southern,Accessories,Phone Case,5,38,15,190,75,115
+TXN-1001,2026-06-29,Central,Office Supplies,Notebook,1,229,94,229,94,135
+TXN-1180,2026-06-29,Central,Accessories,Screen Protector,12,38,14,456,168,288
